@@ -4,12 +4,12 @@ body {
 }
 /* IDs */
 #login {
-    background-color: black;
+    background-color: rosybrown;
     color: white;
 }
 
 #registre {
-    background-color: blue;
+    background-color: rosybrown;
     color: white;
 }
 /* classes */
